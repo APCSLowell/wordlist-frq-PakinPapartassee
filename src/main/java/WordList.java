@@ -26,6 +26,5 @@ public class WordList
         myList.remove(i);
         i--;
       }
-    return myList;
   }
 }
